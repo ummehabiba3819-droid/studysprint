@@ -80,10 +80,10 @@ This was a deliberate choice, not a shortcut: it makes the app simpler, faster, 
 
 ## Screenshots
 
-![Input screen — paste notes or a topic](./screenshots/dashboard.png)
-![Quiz in progress](./screenshots/quiz.png)
-![Results with score and explanations](./screenshots/result.png)
-![Home screen showing quiz history](./screenshots/result-history.png)
+![Input screen — paste notes or a topic](./dashboard.png)
+![Quiz in progress](./quiz.png)
+![Results with score and explanations](./result.png)
+![Home screen showing quiz history](./result-history.png)
 
 ## How to run this project yourself
 
